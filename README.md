@@ -1,4 +1,4 @@
-# PW1 Final Project | 🔗 [View Project](https://khaliladev.github.io/pw1/)
+# PW1 Final Project | 🔗 [View Project](https://khaliladev.github.io/etec-pw1/)
 
 This is a beginner-level website built with **HTML5** and **CSS3** for my _Web Programming 1_ class (Brazilian Portuguese).
 
